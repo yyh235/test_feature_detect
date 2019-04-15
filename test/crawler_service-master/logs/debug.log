@@ -1,0 +1,177 @@
+2019-04-09 13:17:12,753 [DEBUG] Starting feature detect service...
+2019-04-09 13:19:30,589 [DEBUG] Starting feature detect service...
+2019-04-09 13:19:30,590 [ERROR] tensorlfow load static features error: module 'common.log_util' has no attribute 'debug'
+2019-04-09 13:20:10,424 [DEBUG] Starting feature detect service...
+2019-04-09 13:20:10,424 [DEBUG] loading static features from /Users/tonyyoung/test/feature/image
+2019-04-09 13:20:10,424 [ERROR] tensorlfow load static features error: module 'common.utils' has no attribute 'sattic_image_index'
+2019-04-09 13:23:18,120 [DEBUG] Starting feature detect service...
+2019-04-09 13:23:18,121 [DEBUG] loading static features from /Users/tonyyoung/test/feature/image
+2019-04-09 13:23:18,122 [ERROR] tensorlfow load static features error: 'list' object has no attribute 'flags'
+2019-04-09 13:27:29,004 [DEBUG] Starting feature detect service...
+2019-04-09 13:27:29,007 [DEBUG] loading static features from /Users/tonyyoung/test/feature/image
+2019-04-09 13:27:29,007 [ERROR] tensorlfow load static features error: 'list' object has no attribute 'flags'
+2019-04-09 13:33:26,293 [DEBUG] Starting feature detect service...
+2019-04-09 13:33:26,798 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:27,801 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:28,811 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:29,814 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:30,821 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:31,826 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:32,829 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:33,837 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:34,845 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:35,853 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:36,861 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:37,869 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:38,877 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:39,885 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:40,893 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:41,901 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:42,909 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:43,917 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:44,925 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:45,934 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:46,941 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:47,950 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:48,957 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:49,965 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:50,974 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:51,981 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:52,990 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:53,998 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:55,005 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:56,014 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:57,022 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:58,029 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:33:59,038 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:00,045 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:01,053 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:02,062 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:03,070 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:04,075 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:05,081 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:06,088 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:07,095 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:08,100 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:09,110 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:10,115 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:11,125 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:12,131 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:13,137 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:14,139 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:15,146 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:16,156 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:17,158 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:18,167 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:19,175 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:20,182 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:21,187 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:22,189 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:23,193 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:24,198 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:25,204 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:26,212 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:27,221 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:28,228 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:29,236 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:30,244 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:31,253 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:32,261 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:33,269 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-09 13:34:34,277 [ERROR] feature detect error: 'NoneType' object has no attribute 'decode'
+2019-04-10 15:49:43,940 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 15:49:43,942 [ERROR] tensorlfow load static features error: 'utf-8' codec can't decode byte 0x80 in position 3131: invalid start byte
+2019-04-10 16:02:01,442 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 16:02:01,444 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 16:02:02,165 [DEBUG] Total 100 static image features loaded.
+2019-04-10 16:34:26,600 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 16:34:26,602 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 16:34:27,336 [DEBUG] Total 100 static image features loaded.
+2019-04-10 16:35:00,097 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 16:35:00,098 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 16:35:00,695 [DEBUG] Total 100 static image features loaded.
+2019-04-10 16:35:19,310 [ERROR] check image duplicate fail: not enough values to unpack (expected 2, got 1)
+2019-04-10 16:41:34,095 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 16:41:34,097 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 16:41:34,816 [DEBUG] Total 100 static image features loaded.
+2019-04-10 17:30:37,130 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:30:37,133 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:30:37,143 [ERROR] tensorlfow load static features error: not enough values to unpack (expected 2, got 1)
+2019-04-10 17:33:49,804 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:33:49,804 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:33:50,594 [DEBUG] Total 100 static image features loaded.
+2019-04-10 17:43:42,240 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:43:42,241 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:43:42,981 [ERROR] tensorlfow load static features error: 'list' object has no attribute 'shape'
+2019-04-10 17:46:44,758 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:46:44,759 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:46:45,483 [ERROR] tensorlfow load static features error: 'list' object has no attribute 'flags'
+2019-04-10 17:47:51,450 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:47:51,450 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:47:52,071 [DEBUG] Total 0 static image features loaded.
+2019-04-10 17:55:53,067 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:55:53,068 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:55:53,792 [DEBUG] Total 0 static image features loaded.
+2019-04-10 17:56:16,388 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:56:16,388 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:56:16,993 [DEBUG] Total 100 static image features loaded.
+2019-04-10 17:56:41,291 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 17:56:41,292 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 17:56:41,891 [DEBUG] Total 100 static image features loaded.
+2019-04-10 18:02:06,784 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 18:02:06,785 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 18:02:07,496 [DEBUG] Total 100 static image features loaded.
+2019-04-10 18:03:54,798 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 18:03:54,798 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 18:03:55,481 [DEBUG] Total 100 static image features loaded.
+2019-04-10 18:08:32,517 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-10 18:08:32,518 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-10 18:08:33,204 [DEBUG] Total 100 static image features loaded.
+2019-04-11 09:49:24,364 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-11 09:49:24,366 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-11 09:49:25,068 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:00:05,510 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-11 10:00:05,512 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-11 10:00:06,205 [ERROR] tensorlfow load static features error: too many values to unpack (expected 2)
+2019-04-11 10:01:37,323 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-11 10:01:37,323 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-11 10:01:37,993 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:04:10,458 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-11 10:04:10,459 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-11 10:04:11,147 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:10:12,072 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image
+2019-04-11 10:10:12,073 [DEBUG] loading static features from /Users/tonyyoung/test/feature/resnet/image/2019-04-09
+2019-04-11 10:10:12,758 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:40:47,152 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 10:40:47,154 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 10:40:48,042 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:44:16,087 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 10:44:16,088 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 10:44:16,963 [DEBUG] Total 100 static image features loaded.
+2019-04-11 10:57:19,226 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 10:57:19,228 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 10:57:20,090 [DEBUG] Total 100 static image features loaded.
+2019-04-11 16:32:29,131 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 16:32:29,132 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-11
+2019-04-11 16:32:29,246 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 16:32:30,164 [DEBUG] Total 130 static image features loaded.
+2019-04-11 16:34:24,552 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 16:34:24,552 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-11
+2019-04-11 16:34:24,635 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 16:34:25,412 [DEBUG] Total 130 static image features loaded.
+2019-04-11 16:39:08,510 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image
+2019-04-11 16:39:08,512 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-11
+2019-04-11 16:39:08,590 [DEBUG] loading static features from /Users/tonyyoung/test/feature/inception/image/2019-04-09
+2019-04-11 16:39:09,368 [DEBUG] Total 130 static image features loaded.
+2019-04-12 10:02:30,562 [ERROR] tensorlfow load animated features error: module 'common.log_util' has no attribute 'debug'
+2019-04-12 10:03:01,893 [ERROR] tensorlfow load animated features error: module 'common.log_util' has no attribute 'debug'
+2019-04-12 10:03:38,212 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600
+2019-04-12 10:03:38,214 [ERROR] tensorlfow load animated features error: 'utf-8' codec can't decode byte 0x80 in position 3131: invalid start byte
+2019-04-12 10:06:19,026 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600
+2019-04-12 10:06:19,030 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600/2019-04-11
+2019-04-12 10:06:24,916 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600/2019-04-12
+2019-04-12 10:06:25,989 [DEBUG] Total 0 animated image features loaded.
+2019-04-12 10:08:34,352 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600
+2019-04-12 10:08:34,356 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600/2019-04-11
+2019-04-12 10:08:39,138 [DEBUG] loading animated features from /Users/tonyyoung/test/feature/600/2019-04-12
+2019-04-12 10:08:40,061 [DEBUG] Total 2256 animated image features loaded.
